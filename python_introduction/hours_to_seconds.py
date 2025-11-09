@@ -1,7 +1,3 @@
-principal = 1000
-rate = 0.05
-time = 3
-
-interest = principal * rate * time
-
-print(f"The simple interest is: {interest}")x
+hours = 2
+seconds = hours * 3600
+print(f"{hours} hour(s) is {seconds} seconds.")
